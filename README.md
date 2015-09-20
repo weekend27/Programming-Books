@@ -5,9 +5,9 @@
 
 ###C/C++
 
-* The C Programming Language (Second Edition)
-* Linux C 编程从入门到精通
-* C++ Primer (5th Edition)
+* [The C Programming Language (Second Edition)](http://www.amazon.cn/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80-%E5%85%8B%E5%B0%BC%E6%B1%89/dp/B0011425T8/ref=sr_1_1?ie=UTF8&qid=1441107329&sr=8-1&keywords=c%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80)
+* [Linux C 编程从入门到精通](http://www.amazon.cn/Linux-C%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A-%E5%AE%8B%E7%A3%8A/dp/B00HI96AFA/ref=sr_1_1?ie=UTF8&qid=1441107461&sr=8-1&keywords=Linux+C+%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A)
+* [C++ Primer (5th Edition)](http://www.amazon.cn/C-Primer-%E6%96%AF%E5%9D%A6%E5%88%A9%C2%B7%E6%9D%8E%E6%99%AE%E6%9B%BC/dp/B00ESUIL0O/ref=sr_1_1?ie=UTF8&qid=1441107605&sr=8-1&keywords=c+primer)
 * Expert C Programming (Deep C Secrets)
 * C Traps and Pitfalls
 * Ruminations on C++
