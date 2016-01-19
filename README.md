@@ -20,6 +20,7 @@
 ###Java
 
 * [Core Java Volume I -- Fundamentals][010]
+* [Thinking in Java(4th Edition)][040]
     
 ###Operating System
 
@@ -111,6 +112,7 @@
 [037]: http://www.amazon.cn/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0-%E9%BB%84%E5%81%A5%E5%AE%8F-%E8%91%97/dp/B00LZNV5B4/ref=sr_1_1?ie=UTF8&qid=1447603413&sr=8-1&keywords=redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0
 [038]: http://www.amazon.cn/Redis%E5%AE%9E%E6%88%98-%E7%BA%A6%E8%A5%BF%E4%BA%9A-L-%E5%8D%A1%E5%B0%94%E6%A3%AE/dp/B016YLS2LM/ref=sr_1_1?ie=UTF8&qid=1447603542&sr=8-1&keywords=redis%E5%AE%9E%E6%88%98
 [039]: http://www.amazon.cn/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-C%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0-%E9%9F%A6%E6%96%AF/dp/B003X4LF4U/ref=sr_1_2?ie=UTF8&qid=1451582683&sr=8-2&keywords=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%EF%BC%88%EF%BC%A3%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%EF%BC%89
+[040]: http://www.amazon.cn/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3-%E5%9F%83%E5%8F%B2%E5%B0%94/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&qid=1453210934&sr=8-1&keywords=java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3
 
 
 
