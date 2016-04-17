@@ -16,12 +16,12 @@
 * [Accelerated C++ : Practical Programming by Example][007]
 * [编程的法则:C++程序员不可不知的101条实用经验][008]
 * [C++ Without Fear: A Beginner's Guide That Makes You Feel Smart (2nd Edition)][009]
-    
+
 ###Java
 
 * [Core Java Volume I -- Fundamentals][010]
 * [Thinking in Java(4th Edition)][040]
-    
+
 ###Operating System
 
 * [30天自制操作系统][011]
@@ -29,12 +29,12 @@
 * [Modern Operating Systems (Third Edition)][013]
 * [鸟哥的linux私房菜：基础学习篇][014]
 * [Code: The Hidden Language of Computer Hardware and Software][015]
-    
+
 ###Android
 
 * [第一行代码][016]
 * [Android核心技术与实例详解][017]（这是一本烂书，代码质量奇差）
-    
+
 ###Algorithms
 
 * [Introduction to Algorithms][018]
@@ -42,19 +42,20 @@
 * [数据结构（C++语言版）][020]
 * [剑指Offer:名企面试官精讲典型编程题][021]
 * [数据结构与算法分析（Ｃ语言描述）][039]
-    
+
 ###Database
 
 * [Principles of Distributed Database Systems (Third Edition)][022]
 * [Redis设计与实现][037]
 * [Redis实战][038]
-    
+* [Redis入门指南（第2版）][041]
+
 ###FPGA
 
 * [Xilinx FPGA开发实用教程(第2版)][023]
 * [Verilog数字系统设计教程(第3版)][024]
 * [Verilong HDL入门(第3版)][025]
-    
+
 ###Programmer
 
 * [编程人生：15位软件先驱访谈录（上卷）][026]
@@ -65,7 +66,7 @@
 * [如何阅读一本书][031]
 * [数学之美][032]
 * [你的灯亮着吗?:发现问题的真正所在][033]
-    
+
 ###Others
 
 * [数据可视化][034]
@@ -113,10 +114,4 @@
 [038]: http://www.amazon.cn/Redis%E5%AE%9E%E6%88%98-%E7%BA%A6%E8%A5%BF%E4%BA%9A-L-%E5%8D%A1%E5%B0%94%E6%A3%AE/dp/B016YLS2LM/ref=sr_1_1?ie=UTF8&qid=1447603542&sr=8-1&keywords=redis%E5%AE%9E%E6%88%98
 [039]: http://www.amazon.cn/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90-C%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0-%E9%9F%A6%E6%96%AF/dp/B003X4LF4U/ref=sr_1_2?ie=UTF8&qid=1451582683&sr=8-2&keywords=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%EF%BC%88%EF%BC%A3%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%EF%BC%89
 [040]: http://www.amazon.cn/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3-%E5%9F%83%E5%8F%B2%E5%B0%94/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&qid=1453210934&sr=8-1&keywords=java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3
-
-
-
-
-
-
-
+[041]: https://www.amazon.cn/Redis%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97-%E6%9D%8E%E5%AD%90%E9%AA%85/dp/B00X65PE3E/ref=sr_1_1?ie=UTF8&qid=1460902323&sr=8-1&keywords=redis%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97+%E7%AC%AC2%E7%89%88
