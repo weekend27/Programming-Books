@@ -52,6 +52,7 @@
 * [Redis设计与实现][037]
 * [Redis实战][038]
 * [Redis入门指南（第2版）][041]
+* [MongoDB权威指南(第2版)][044]
 
 ###Big Data
 * [Hadoop实战(第2版)][043]
@@ -123,3 +124,4 @@
 [041]: https://www.amazon.cn/Redis%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97-%E6%9D%8E%E5%AD%90%E9%AA%85/dp/B00X65PE3E/ref=sr_1_1?ie=UTF8&qid=1460902323&sr=8-1&keywords=redis%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97+%E7%AC%AC2%E7%89%88
 [042]: https://www.amazon.cn/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B71-%E5%8D%8F%E8%AE%AE-W-Richard-Stevens/dp/B00116OTVS/ref=sr_1_1?ie=UTF8&qid=1461163325&sr=8-1&keywords=tcp+ip
 [043]: https://www.amazon.cn/Hadoop%E5%AE%9E%E6%88%98-%E9%99%86%E5%98%89%E6%81%92/dp/B009X25AI8/ref=sr_1_1?ie=UTF8&qid=1461242501&sr=8-1&keywords=hadoop%E5%AE%9E%E6%88%98
+[044]: https://www.amazon.cn/MongoDB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E9%9C%8D%E5%A4%9A%E7%BD%97%E5%A4%AB/dp/B00HLX035Q/ref=sr_1_1?ie=UTF8&qid=1461940848&sr=8-1&keywords=mongodb%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97
