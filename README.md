@@ -56,6 +56,7 @@
 
 ###Big Data
 * [Hadoop实战(第2版)][043]
+* [Spark大数据处理:技术、应用与性能优化][045]
 
 ###FPGA
 
@@ -125,3 +126,4 @@
 [042]: https://www.amazon.cn/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B71-%E5%8D%8F%E8%AE%AE-W-Richard-Stevens/dp/B00116OTVS/ref=sr_1_1?ie=UTF8&qid=1461163325&sr=8-1&keywords=tcp+ip
 [043]: https://www.amazon.cn/Hadoop%E5%AE%9E%E6%88%98-%E9%99%86%E5%98%89%E6%81%92/dp/B009X25AI8/ref=sr_1_1?ie=UTF8&qid=1461242501&sr=8-1&keywords=hadoop%E5%AE%9E%E6%88%98
 [044]: https://www.amazon.cn/MongoDB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E9%9C%8D%E5%A4%9A%E7%BD%97%E5%A4%AB/dp/B00HLX035Q/ref=sr_1_1?ie=UTF8&qid=1461940848&sr=8-1&keywords=mongodb%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97
+[045]: https://www.amazon.cn/Spark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86-%E6%8A%80%E6%9C%AF-%E5%BA%94%E7%94%A8%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E9%AB%98%E5%BD%A6%E6%9D%B0/dp/B00PI1LWI0/ref=sr_1_1?s=books&ie=UTF8&qid=1462009307&sr=1-1&keywords=spark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86
