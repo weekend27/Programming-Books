@@ -59,6 +59,7 @@
 * [Spark大数据处理:技术、应用与性能优化][045]
 * [Hadoop权威指南(第3版)(修订版)][046]
 * [Storm分布式实时计算模式][047]
+* [架构师特刊：Hadoop十年回顾][048]
 
 ###FPGA
 
@@ -131,3 +132,4 @@
 [045]: https://www.amazon.cn/Spark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86-%E6%8A%80%E6%9C%AF-%E5%BA%94%E7%94%A8%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E9%AB%98%E5%BD%A6%E6%9D%B0/dp/B00PI1LWI0/ref=sr_1_1?s=books&ie=UTF8&qid=1462009307&sr=1-1&keywords=spark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86
 [046]: https://www.amazon.cn/Hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E6%80%80%E7%89%B9/dp/B00OUFXPDA/ref=sr_1_1?ie=UTF8&qid=1462198692&sr=8-1&keywords=hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97
 [047]: https://www.amazon.cn/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6-Storm%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E6%A8%A1%E5%BC%8F-%E5%90%89%E5%A5%A5%E5%85%B9/dp/B00QPZBK8U/ref=sr_1_1?ie=UTF8&qid=1462198768&sr=8-1&keywords=storm%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E6%A8%A1%E5%BC%8F
+[048]: http://www.infoq.com/cn/minibooks/download/Hadoop-10-years
