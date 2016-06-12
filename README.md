@@ -45,6 +45,8 @@
 * [数据结构（C++语言版）][020]
 * [剑指Offer:名企面试官精讲典型编程题][021]
 * [数据结构与算法分析（Ｃ语言描述）][039]
+* [程序员代码面试指南:IT名企算法与数据结构题目最优解][050]
+* [程序员面试金典(第5版)][051]
 
 ###Database
 
@@ -135,3 +137,5 @@
 [047]: https://www.amazon.cn/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6-Storm%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E6%A8%A1%E5%BC%8F-%E5%90%89%E5%A5%A5%E5%85%B9/dp/B00QPZBK8U/ref=sr_1_1?ie=UTF8&qid=1462198768&sr=8-1&keywords=storm%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E6%A8%A1%E5%BC%8F
 [048]: http://www.infoq.com/cn/minibooks/download/Hadoop-10-years
 [049]: https://www.amazon.cn/Hadoop%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95-%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90YARN%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86-%E8%91%A3%E8%A5%BF%E6%88%90/dp/B00GSD3TE2/ref=sr_1_2?ie=UTF8&qid=1462977289&sr=8-2&keywords=yarn
+[050]: https://www.amazon.cn/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97-IT%E5%90%8D%E4%BC%81%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E6%9C%80%E4%BC%98%E8%A7%A3-%E5%B7%A6%E7%A8%8B%E4%BA%91/dp/B015D1UCG2/ref=sr_1_1?ie=UTF8&qid=1465742263&sr=8-1&keywords=%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BB%A3%E7%A0%81%E9%9D%A2%E8%AF%95%E6%8C%87%E5%8D%97
+[051]: https://www.amazon.cn/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8-%E9%BA%A6%E5%85%8B%E9%81%93%E5%B0%94/dp/B00G8VOQOG/ref=sr_1_1?ie=UTF8&qid=1465742338&sr=8-1&keywords=%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8
