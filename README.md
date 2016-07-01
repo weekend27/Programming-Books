@@ -22,6 +22,9 @@
 * [Core Java Volume I -- Fundamentals][010]
 * [Thinking in Java(4th Edition)][040]
 
+###Scala
+* [快学Scala][054]
+
 ###Operating System
 
 * [30天自制操作系统][011]
@@ -66,6 +69,7 @@
 * [架构师特刊：Hadoop十年回顾][048]
 * [Hadoop技术内幕:深入解析YARN架构设计与实现原理][049]
 * [Spark大数据处理技术][053]
+* [Spark快速大数据分析][055]
 
 ###FPGA
 
@@ -144,3 +148,5 @@
 [051]: https://www.amazon.cn/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8-%E9%BA%A6%E5%85%8B%E9%81%93%E5%B0%94/dp/B00G8VOQOG/ref=sr_1_1?ie=UTF8&qid=1465742338&sr=8-1&keywords=%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8
 [052]: https://www.amazon.cn/%E6%99%AE%E9%80%9A%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E6%9C%AC%E7%A7%91%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%A7%84%E5%88%92%E6%95%99%E6%9D%90-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%B0%A2%E5%B8%8C%E4%BB%81/dp/B00D6MV25Q/ref=sr_1_1?ie=UTF8&qid=1466425822&sr=8-1&keywords=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C+%E8%B0%A2%E5%B8%8C%E4%BB%81
 [053]: https://www.amazon.cn/Spark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%8A%80%E6%9C%AF-%E5%A4%8F%E4%BF%8A%E9%B8%BE/dp/B00QUG5C9C/ref=sr_1_4?ie=UTF8&qid=1467125062&sr=8-4&keywords=spark
+[054]: https://www.amazon.cn/%E5%BF%AB%E5%AD%A6Scala-%E5%87%AF%E2%80%A2S-%E9%9C%8D%E6%96%AF%E6%9B%BC/dp/B009P8FHHO/ref=sr_1_1?ie=UTF8&qid=1467387881&sr=8-1&keywords=%E5%BF%AB%E5%AD%A6scala
+[055]: https://www.amazon.cn/Spark%E5%BF%AB%E9%80%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-%E7%BE%8E-%E5%8D%A1%E5%8A%B3-%E7%BE%8E-%E8%82%AF%E7%BB%B4%E5%B0%BC%E6%96%AF%E7%A7%91-%E7%BE%8E-%E6%B8%A9%E5%BE%B7%E5%B0%94-%E5%8A%A0-%E6%89%8E%E5%93%88%E9%87%8C%E4%BA%9A/dp/B016DWSEXI/ref=sr_1_1?ie=UTF8&qid=1467387923&sr=8-1&keywords=spark
