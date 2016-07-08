@@ -32,6 +32,7 @@
 * [Modern Operating Systems (Third Edition)][013]
 * [鸟哥的linux私房菜：基础学习篇][014]
 * [Code: The Hidden Language of Computer Hardware and Software][015]
+* [计算机操作系统（第四版） 汤小丹著][056]
 
 ###Network
 * [TCP/IP详解卷1:协议][042]
@@ -150,3 +151,4 @@
 [053]: https://www.amazon.cn/Spark%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%8A%80%E6%9C%AF-%E5%A4%8F%E4%BF%8A%E9%B8%BE/dp/B00QUG5C9C/ref=sr_1_4?ie=UTF8&qid=1467125062&sr=8-4&keywords=spark
 [054]: https://www.amazon.cn/%E5%BF%AB%E5%AD%A6Scala-%E5%87%AF%E2%80%A2S-%E9%9C%8D%E6%96%AF%E6%9B%BC/dp/B009P8FHHO/ref=sr_1_1?ie=UTF8&qid=1467387881&sr=8-1&keywords=%E5%BF%AB%E5%AD%A6scala
 [055]: https://www.amazon.cn/Spark%E5%BF%AB%E9%80%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-%E7%BE%8E-%E5%8D%A1%E5%8A%B3-%E7%BE%8E-%E8%82%AF%E7%BB%B4%E5%B0%BC%E6%96%AF%E7%A7%91-%E7%BE%8E-%E6%B8%A9%E5%BE%B7%E5%B0%94-%E5%8A%A0-%E6%89%8E%E5%93%88%E9%87%8C%E4%BA%9A/dp/B016DWSEXI/ref=sr_1_1?ie=UTF8&qid=1467387923&sr=8-1&keywords=spark
+[056]: https://www.amazon.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F-%E6%B1%A4%E5%B0%8F%E4%B8%B9/dp/B00L8QPZXC/ref=sr_1_1?ie=UTF8&qid=1467902886&sr=8-1&keywords=%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F
